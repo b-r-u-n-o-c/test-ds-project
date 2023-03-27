@@ -1,1 +1,1 @@
-# {{cookiecutter.repository}} tests
+# test-ds-project tests
